@@ -1,0 +1,6 @@
+{
+  "name": "WMS Atin's Coll",
+  "description": "Warehouse Management System (WMS) Atin's Collection - Inventory, Purchasing, Receiving, Sales, Delivery, Stock Movement, Reports & Thermal Label Printing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
